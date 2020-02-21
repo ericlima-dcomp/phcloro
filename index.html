@@ -159,7 +159,7 @@
         </h1>
 
         <div class="content">
-            <h4 class="motto"><a href="https://forum.infinityfree.net">Clique aqui para baixar o App</a></h4>
+            <h4 class="motto"><a href="https://github.com/ericlima-dcomp/phcloro.github.io/raw/master/app-phcloro.apk">Clique aqui para baixar o App</a></h4>
             <div class="subscribe">
                 <h5 class="info-text">
                     Após o download, abra o arquivo baixado e instale o app.<br>
